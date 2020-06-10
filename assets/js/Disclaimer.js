@@ -72,7 +72,7 @@ class Disclaimer {
     }
 
     static generateDialog() {
-      const code = `<div id="disclaimer-dialog">
+        const code = `<div id="disclaimer-dialog">
       <div class="center">
       <h1>${strings.welcome}</h1>
       <p class="italic">${strings.site_contains_adult_materials}</p>
@@ -83,6 +83,6 @@ class Disclaimer {
       </div></div>
       <div id="disclaimer-background"></div>`;
 
-      document.write(code);
+        document.write(code);
     }
 }

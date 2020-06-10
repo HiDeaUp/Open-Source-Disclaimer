@@ -10,8 +10,8 @@ Disclaimer.generateDialog();
 
 const oDisclaimer = new Disclaimer();
 if (!oDisclaimer.isAccepted()) {
-  oDisclaimer.loadDialog();
-  oDisclaimer.centerDialog();
+    oDisclaimer.loadDialog();
+    oDisclaimer.centerDialog();
 }
 
 document.getElementById('agree-over18').onclick = function () {
