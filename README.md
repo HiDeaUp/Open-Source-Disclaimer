@@ -8,6 +8,8 @@ Super lightweight library (just ~4KB), delivered with an elegant, simple and res
 
 Under the hood, it uses the client HTML5 browser's *sessionStorage* to remember the user consentement (agreed/disagreed to see the website).
 
+![Disclaimer Notice Gate, Premiew Screenshot](disclaimer-screenshot.png)
+
 
 ### How to implement it?
 
