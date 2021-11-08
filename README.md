@@ -30,7 +30,13 @@ Edit `Disclaimer.js` file, and change the values in the `const strings = {}` arr
 
 For instance, to update the headline from "Welcome!" to "Hi there...", change `welcome: 'Welcome!'` to `welcome: 'Hi there...'`
 
+In the `common.js` file, you can change the `disagreedRedirectLink` URL where the visitor is redirected when disagreed to continue the visit on the site.
 
 ### Troubleshooting
 
-Any problems or suggestions, please just *Open an Issue* on GitHub 😊
+Any problems or suggestions, please just *[Open an Issue](https://github.com/HiDeaUp/Open-Source-Disclaimer/issues)* on [GitHub](https://github.com/HiDeaUp/Open-Source-Disclaimer/) 😊
+
+
+### Wanna build a dating webapp?
+
+Have a look to **[pH7Builder, open source dating solution](https://github.com/pH7Software/)** 🚀
