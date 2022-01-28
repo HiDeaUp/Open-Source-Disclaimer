@@ -22,7 +22,7 @@ class Disclaimer {
     }
 
     loadDialog() {
-        if (this.dialogStatus == 0) {
+        if (this.dialogStatus === 0) {
             this.backgroundElement.style.opacity = '0.95';
             this.backgroundElement.style.display = 'block';
             this.dialogElement.style.display = 'block';
@@ -32,7 +32,7 @@ class Disclaimer {
     }
 
     disableDialog() {
-        if (this.dialogStatus == 1) {
+        if (this.dialogStatus === 1) {
             this.dialogElement.style.display = 'none';
             this.backgroundElement.style.display = 'none';
 
